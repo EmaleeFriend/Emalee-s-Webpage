@@ -1,0 +1,9 @@
+---
+title: "Emalee's Webpage"
+---
+
+Welcome to my site!
+
+My research focuses on improving the energy efficiency of beef cattle, with an emphasis on reducing methane emissions. I am currently working with cattle from the Germplasm Evaluation Program from the U.S. Meat Animal Research Center. I study how breed type and growth promotants interact to influence performance. I am also interested in how breed differences affect crude protein intake and overall nutrient utilization.
+
+![Measuring gas exchange using a GreenFeed](images/Measuring%20Gas%20Exchange1.jpg){fig-align="left"}

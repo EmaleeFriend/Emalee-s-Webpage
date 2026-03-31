@@ -1,0 +1,22 @@
+project:
+  type: website
+
+website:
+  title: "Emalee's Webpage"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: Publications
+
+format:
+  html:
+    theme:
+      - superhero
+      - brand
+    css: styles.css
+    toc: true
+
+editor: visual
+
