@@ -1,9 +1,32 @@
 ---
-title: "Emalee's Webpage"
+title: "Emalee Friend"
+page-layout: full
+title-block-style: none
 ---
 
-Welcome to my site!
+::: {.homepage}
 
-My research focuses on improving the energy efficiency of beef cattle, with an emphasis on reducing methane emissions. I am currently working with cattle from the Germplasm Evaluation Program from the U.S. Meat Animal Research Center. I study how breed type and growth promotants interact to influence performance. I am also interested in how breed differences affect crude protein intake and overall nutrient utilization.
+::: {.profile-card}
+![](headshot.jpg){.profile-img}
+  
+# Emalee Friend
 
-![Measuring gas exchange using a GreenFeed](images/Measuring%20Gas%20Exchange1.jpg){fig-align="left"}
+Research Scientist | Ruminant Nutrition
+  
+:::
+  
+::: {.content-section}
+## About Me
+  
+I am a research scientist at the USDA-ARS Oklahoma and Central Plains Research Center (OCPARC) in Woodward, Oklahoma. I earned my B.S. in Plant and Soil Science, with a minor in Agricultural Finance, from Oklahoma Sate Univeristy. I later completed my M.S. in Ruminant Nutrition at Oklahoma Sate University and am currently persuing my Ph.d. in Ruminant Nutition.
+:::
+
+::: {.content-section}
+## Research
+
+My research centers on improving the energetic efficiency of beef cattle through reducing methane emissions. Also, using cattle from the U.S. Meat Animal Research Center Germplasm Evaluation program, I study how breed type and growth promotants interact to influence performance and carcasses and I am also looking at the effect of dietary protein levels on nutrogen utilization efficiency, growth performance and respiratory gas flux on the different breed types.
+
+:::
+
+:::
+---
