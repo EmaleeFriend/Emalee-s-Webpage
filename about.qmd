@@ -28,7 +28,7 @@ Gunter, S.A., Moffet, C.A., Friend, E.J., 2024. PSIX-22 Maternal methane, carbon
 
 [**Data sets:**]{.underline}
 
-Gunter, S.A., Friend, E.J., 2025. Respiratory gas fluxes from cattle fed forage-based diets. Mendeley Data, V4, doi: 10.17632/46rwm84krf.4
+Gunter, S.A., Friend, E.J., 2025. Respiratory gas fluxes from cattle fed forage-based diets. Mendeley Data, V4, doi.org/10.17632/46rwm84krf.4
 
 Gunter, S.A., Grisby, Z., Beck, P.A., Friend, E.J., 2025. Effects of increasing supplementation rates of extruded distillers’ grain cubes on stocker steers production grazing native range in Bessie, OK and Fort Supply, Ok during the summer months in 2021 and 2022. Ag Data Commons. Dataset. https://doi.org/10.15482/USDA.ADC/29610539.v1
 
