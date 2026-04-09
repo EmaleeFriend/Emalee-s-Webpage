@@ -4,29 +4,28 @@ page-layout: full
 title-block-style: none
 ---
 
-::: {.homepage}
-
-::: {.profile-card}
+:::::: homepage
+::: profile-card
 ![](headshot.jpg){.profile-img}
-  
+
 # Emalee Friend
 
-Research Scientist | Ruminant Nutrition
-  
+Research Scientist \| Ruminant Nutrition
 :::
-  
-::: {.content-section}
+
+::: content-section
 ## About Me
-  
+
 I am a research scientist at the USDA-ARS Oklahoma and Central Plains Research Center (OCPARC) in Woodward, Oklahoma. I earned my B.S. in Plant and Soil Science, with a minor in Agricultural Finance, from Oklahoma Sate Univeristy. I later completed my M.S. in Ruminant Nutrition at Oklahoma Sate University and am currently pursuing my Ph.d. in Ruminant Nutition.
 :::
 
-::: {.content-section}
+::: content-section
 ## Research
 
 My research centers on improving the energetic efficiency of beef cattle through reducing methane emissions. Also, using cattle from the U.S. Meat Animal Research Center Germplasm Evaluation program, I study how breed type and growth promotants interact to influence performance and carcasses and I am also looking at the effect of dietary protein levels on nitrogen utilization efficiency, growth performance and respiratory gas flux on the different breed types.
-
 :::
 
-:::
----
+NEW SENTENCE!!!
+::::::
+
+------------------------------------------------------------------------
